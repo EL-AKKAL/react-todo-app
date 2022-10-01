@@ -14,3 +14,8 @@ This project has some simple functionalities for begginners like :
 1. create
 2. delete
 3. update
+
+
+# Includes
+
+This project use tailwind css for time saveing and more readable code
